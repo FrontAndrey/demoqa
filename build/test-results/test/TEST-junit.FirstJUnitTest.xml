@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.FirstJUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-07-03T15:24:38" hostname="HOME-PC" time="0.011">
+  <properties/>
+  <testcase name="firstTest()" classname="junit.FirstJUnitTest" time="0.009"/>
+  <testcase name="secondTest()" classname="junit.FirstJUnitTest" time="0.001"/>
+  <system-out><![CDATA[Это бефореОл>
+  Это бефореич
+  Это ТЕСТ
+  Это Афтерич
+  Это бефореич
+  Это ТЕСТ2
+  Это Афтерич
+Это AfterОл>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
